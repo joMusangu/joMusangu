@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <a href="#">Musangu Tshisau</a></h1>
+<h1 align="center">👋 Hi, I'm <a href="#">Joseph Musangu</a></h1>
 <h3 align="center">🌍 Aspiring Software Engineer | Texas Tech University '26 | </h3>
 
 ---
