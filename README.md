@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <a href="#">Joseph Musangu</a></h1>
-<h3 align="center">🌍 Aspiring Software Engineer | Texas Tech University '26 | </h3>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/tshisau-musangu/" target="_blank">Joseph Musangu</a></h1>
+<h3 align="center">🌍 Aspiring Software Engineer | Texas Tech University '26 </h3>
 
 ---
 
@@ -10,7 +10,7 @@ As a **first-generation college student** who has lived in **five countries**, I
 
 🎓 **B.S. Computer Science | Minor: Mathematics | Texas Tech University (May 2026)**  
 💬 I love **software development, web/app design, data engineering**, and collaborating on projects that push me to grow.  
-🎮 Outside of coding: I enjoy **gaming, anime, art, music, sports**, and exploring new ideas with friends.  
+🎮 Outside of coding: I enjoy **gaming, anime, art, music, board games**, and **sports**.  
 
 ---
 
@@ -19,7 +19,7 @@ As a **first-generation college student** who has lived in **five countries**, I
 
 - ⚙️ Built **ETL pipelines** transferring Databricks query history to a self-service portal — saving **20+ support hours monthly**.  
 - 🌐 Developed **full-stack web applications** (Java, Spring Boot, Python, Flask, React, AWS) for **tax compliance** and **invoice automation** using **Amazon Textract**, **SES**, and **regex**.  
-- 🧪 Designed and tested **RESTful APIs** with **JUnit**, **Jest**, and **Cypress**, achieving **90%+ code coverage**.  
+- 🧪 Designed and tested **RESTful APIs** with **JUnit**, **Jest**, and **Cypress**, achieving **90%+ code coverage** and improving reliability.  
 
 ---
 
@@ -80,13 +80,17 @@ I’m passionate about:
 
 ---
 
-### 📫 Let’s Connect!  
+### 📊 GitHub Stats  
+![Musangu's GitHub stats](https://github-readme-stats.vercel.app/api?username=joMusangu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joMusangu&layout=compact&theme=radical)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+---
+
+### 📫 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tshisau-musangu/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseph._.musangu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjtshisau@gmail.com)
 
 ---
 
 ⭐ *“The best teams win when everyone’s unique strengths are seen, supported, and shared.”*
-
